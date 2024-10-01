@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Jean Pierre and I'm Studying to be a Developer in Escola Profissional do Fundão. <br>Be welcomed to meet my work 😁.</h2>
+<h2 align="left">Hi👋! My name is Jean Pierre Antunes and I'm Studying to be a Developer in Escola Profissional do Fundão. <br>Be welcomed to meet my work 😁.</h2>
 
 ###
 
