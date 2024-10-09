@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 backand and front
 -----------------
 
-Welcome to my portfolio! I’m a full-stack developer with a wide range of experience building customized web applications. From creating dynamic, user-friendly interfaces to developing solid back-end systems, I enjoy turning ideas into functional and scalable solutions. My focus is always on delivering high-quality user experiences, ensuring that both the design and performance are optimized. I have a passion for coding, and I’m constantly learning new technologies to stay updated with the latest trends in web development. My goal is to build products that not only solve problems but are also intuitive and enjoyable to use.
+Welcome to my portfolio! I’m an aspiring back-end developer currently studying web development. I focus on building efficient back-end systems and have experience with Python, C++, and MongoDB, while also learning front-end technologies like React and TypeScript.
+
+I enjoy tackling new challenges and am always eager to learn. My goal is to contribute to projects that solve real-world problems and improve user experiences.
+
+
 
 * 🌍 I'm based in Portugal,Fundao
 * 🖥️ See my portfolio at [See my portfolio](http://portfolio-jeanpierrepros-projects.vercel.app)
