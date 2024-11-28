@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jean PierrePro
 ===================================================================================================================================
 
-backand and front
+backend and frontend
 --------------------
 
 Welcome to my portfolio! I’m an aspiring back-end developer currently studying web development. I focus on building efficient back-end systems and have experience with Python, C++, and MongoDB, while also learning front-end technologies like React and TypeScript
 
 
-I enjoy tackling new challenges and am always eager to learn. My goal is to contribute to projects that solve real-world problems and improve user experiences.
+I enjoy tackling new challenges and I'm always eager to learn. My goal is to contribute to projects that solve real-world problems and improve user experiences.
 
 
 
