@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 backend and frontend
----------------------
+-----------------------
 
 Welcome to my portfolio! I’m an aspiring back-end developer currently studying web development. I focus on building efficient back-end systems and have experience with Python, C++, and MongoDB, while also learning front-end technologies like React and TypeScript
 
