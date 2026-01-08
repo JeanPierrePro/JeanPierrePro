@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0369a1,0d1117&height=250&section=header&text=Jean%20Pierre&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20Developer&descSize=25&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00BFFF,0d1117&height=250&section=header&text=Jean%20Pierre&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20Developer&descSize=25&descAlignY=65&descAlign=50" width="100%"/>
 
   <br>
 
@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0369a1,0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00BFFF,0d1117&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
