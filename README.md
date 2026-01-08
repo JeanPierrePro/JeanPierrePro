@@ -1,27 +1,59 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jean PierrePro
-===================================================================================================================================
+<div align="center">
 
-backend and frontend
------------------------
+  # Olá, eu sou o Jean Pierre! 👋
+  
+  ### Desenvolvedor Back-End & Estudante de Desenvolvimento Web
 
-Welcome to my portfolio! I’m an aspiring back-end developer currently studying web development. I focus on building efficient back-end systems and have experience with Python, C++, and MongoDB, while also learning front-end technologies like React and TypeScript
+  <p>
+    Sou um aspirante a desenvolvedor focado em construir sistemas back-end eficientes.<br>
+    Atualmente estou aprofundando meus conhecimentos em Python, C++ e bancos de dados, 
+    enquanto exploro o front-end com React e TypeScript.
+  </p>
+  
+  <br>
 
+  <a href="mailto:jeanpierreaprogramador@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="http://portfolio-jeanpierrepros-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-I enjoy tackling new challenges and I'm always eager to learn. My goal is to contribute to projects that solve real-world problems and improve user experiences.
+</div>
 
+<br>
 
+## ⚡ Sobre Mim
 
-* 🌍 I'm based in Portugal,Fundao
-* 🖥️ See my portfolio at [See my portfolio](http://portfolio-jeanpierrepros-projects.vercel.app)
-* ✉️ You can contact me at [jeanpierreaprogramador@gmail.com](mailto:jeanpierreaprogramador@gmail.com)
-* 🧠 I'm learning I'm currently learning: Python, C++, HTML, CSS, and database management using MongoDB. I also have experience with React and JavaScript.
-* 🤝 I'm open to collaborating on I'm open to collaborating on back-end development projects.
+- 🌍 **Localização:** Fundão, Portugal
+- 🧠 **Aprendendo:** Python, C++, MongoDB e arquitetura de Back-end.
+- 🤝 **Colaboração:** Estou aberto a projetos Open Source e desafios de Back-end.
+- 🎯 **Objetivo:** Contribuir em projetos que resolvam problemas reais e melhorem a experiência do usuário.
 
-### Skills
+<br>
 
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,sass,nodejs,flask,mongodb,git,vscode,figma&perline=7" />
+</div>
 
-![JeanPierrePro GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=radical)
+<br>
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/JeanPierrePro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Feito com 💙 por Jean Pierre</sub>
+</div>
