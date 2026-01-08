@@ -1,48 +1,59 @@
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,4c1d95,0d1117&height=250&section=header&text=Jean%20Pierre&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Back-end%20of%20Tomorrow&descSize=20&descAlignY=60&descAlign=50" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=JEAN+PIERRE;BACK-END+DEVELOPER;SYSTEM+ARCHITECT;OPEN+SOURCE" alt="Typing SVG" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/FOCUS-Back--End%20Development-blueviolet?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-Portugal,%20Fundão-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-success?style=for-the-badge&logo=codio&logoColor=white" />
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<br>
+
+<h3 align="center">🛠️ STACK TECNOLÓGICA</h3>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,git,linux,vscode&theme=dark&perline=6" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma&theme=dark&perline=6" />
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<br>
+
+<h3 align="center">📈 PERFORMANCE</h3>
+
+<div align="center">
+
+  <a href="https://github.com/JeanPierrePro">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="langs" />
+  </a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+  <a href="mailto:jeanpierreaprogramador@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://portfolio-jeanpierrepros-projects.vercel.app">
+    <img src="https://img.shields.io/badge/WEBSITE-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
 </div>
 
 <br>
-
-```bash
-jeanpierre@server:~$ ./show_profile.sh
-
-> LOADING USER DATA... [██████████100%]
-
-----------------------------------------
-USER      : Jean PierrePro
-LOCATION  : Fundão, Portugal 🇵🇹
-FOCUS     : High-Performance Back-end
-MAIN_LANG : Python & C++
-DATABASE  : MongoDB & SQL
-STATUS    : Online & Ready to Code 🟢
-----------------------------------------
-
-jeanpierre@server:~$
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D0d1117%26height%3D2%26section%3Dheader%26width%3D100%" />
-
-⚡ ARSENAL TECNOLÓGICO
-<p> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,c,linux,bash,git,docker,mongodb%26theme%3Ddark%26perline%3D8" />
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nodejs,flask,html,css,figma%26theme%3Ddark%26perline%3D8" /> </p>
-
-</div>
-
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJeanPierrePro%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FFFF%26icon_color%3D00FFFF" height="150" alt="Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJeanPierrePro%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FFFF" height="150" alt="Langs" />
-
-</div>
-
-<div align="center">
-
-<a href="mailto:jeanpierreaprogramador@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/EMAIL-Send_Msg-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3D00FFFF" /> </a> <a href="http://portfolio-jeanpierrepros-projects.vercel.app"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-Visit-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3D00FFFF" /> </a> <a href="https://www.google.com/search?q=https://linkedin.com/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-Connect-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D00FFFF" /> </a>
-
-</div>
