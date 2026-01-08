@@ -19,16 +19,17 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 <br>
 
 <h3 align="center">🛠️ ARSENAL TECNOLÓGICO</h3>
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" alt="Backend Skills" />
+  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" />
+
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" alt="Frontend Skills" />
 
 </div>
 
@@ -37,15 +38,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 <br>
 
 <h3 align="center">📈 PERFORMANCE</h3>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/JeanPierrePro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/JeanPierrePro)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)
 
 </div>
 
