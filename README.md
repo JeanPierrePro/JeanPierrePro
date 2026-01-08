@@ -40,18 +40,8 @@
 
 <br>
 
-<h3 align="center">🏆 CONQUISTAS & STREAK</h3>
-
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JeanPierrePro&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
-  </a>
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanPierrePro&theme=dracula&hide_border=true&background=0d1117&ring=5b21b6&fire=5b21b6&currStreakLabel=5b21b6" alt="GitHub Streak" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
 </div>
 
 <br><br>
