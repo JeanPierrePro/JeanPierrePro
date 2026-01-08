@@ -4,13 +4,9 @@
 
   <br>
 
-  <h3>
-    🚀 Desenvolvedor Back-End & Front-End &nbsp;|&nbsp; 🌍 Portugal, Fundão
-  </h3>
-  
-  <p>
-    <em>"Criando soluções modernas com performance e escalabilidade."</em>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Scalable+Back-end+Systems;Expert+in+Python,+C%2B%2B+and+MongoDB;Learning+React,+Vite+and+Modern+Web;Based+in+Fundão,+Portugal" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -19,7 +15,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 <br>
 
 <h3 align="center">🛠️ ARSENAL TECNOLÓGICO</h3>
@@ -37,14 +32,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/10330498/182565609-b636006f-4720-4279-847e-a0a030043868.gif" width="100%" style="border-radius: 10px;" alt="Cyberpunk City" />
 </div>
 
-<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,5b21b6,0d1117&height=120&section=footer" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -61,5 +57,4 @@
   </a>
 
 </div>
-
 <br>
