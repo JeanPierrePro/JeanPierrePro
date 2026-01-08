@@ -5,11 +5,11 @@
   <br>
 
   <h3>
-    🚀 Focado em Back-End Eficiente &nbsp;|&nbsp; 🌍 Baseado em Fundão, Portugal
+    🚀 Desenvolvedor Back-End & Front-End &nbsp;|&nbsp; 🌍 Portugal, Fundão
   </h3>
   
   <p>
-    <em>"Transformando lógica complexa em sistemas escaláveis."</em>
+    <em>"Criando soluções modernas com performance e escalabilidade."</em>
   </p>
 
 </div>
@@ -20,12 +20,16 @@
 </div>
 <br>
 
-<h3 align="center">🛠️ STACK TECNOLÓGICA</h3>
+<h3 align="center">🛠️ ARSENAL TECNOLÓGICO</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,git,linux,vscode&theme=dark&perline=6" />
+  
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" />
+  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma&theme=dark&perline=6" />
+
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" />
+
 </div>
 
 <br>
@@ -34,7 +38,7 @@
 </div>
 <br>
 
-<h3 align="center">📈 PERFORMANCE</h3>
+<h3 align="center">📈 ESTATÍSTICAS</h3>
 
 <div align="center">
   <a href="https://github.com/JeanPierrePro">
@@ -48,15 +52,15 @@
 <div align="center">
 
   <a href="mailto:jeanpierreaprogramador@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=c14438" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-c14438?style=social&logo=gmail&logoColor=c14438" alt="Gmail" />
   </a>
   &nbsp;
   <a href="http://portfolio-jeanpierrepros-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=social&logo=vercel&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=social&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
 
 </div>
