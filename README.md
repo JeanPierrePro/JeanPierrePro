@@ -19,17 +19,16 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 <br>
 
 <h3 align="center">🛠️ ARSENAL TECNOLÓGICO</h3>
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" alt="Backend Skills" />
-  
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" />
   <br><br>
-
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" />
 
 </div>
 
@@ -38,15 +37,20 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 <br>
 
-<h3 align="center">📈 PERFORMANCE</h3>
+<h3 align="center">🏆 CONQUISTAS & STREAK</h3>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JeanPierrePro&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
+  </a>
+  
+  <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanPierrePro&theme=dracula&hide_border=true&background=0d1117&ring=5b21b6&fire=5b21b6&currStreakLabel=5b21b6" alt="GitHub Streak" />
 
 </div>
 
