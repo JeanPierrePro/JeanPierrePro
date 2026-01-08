@@ -15,6 +15,7 @@
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -24,26 +25,27 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,firebase,linux&theme=dark&perline=5" alt="Backend Skills" />
   
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vscode&theme=dark&perline=5" alt="Frontend Skills" />
 
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 <br>
 
-<h3 align="center">📈 ESTATÍSTICAS</h3>
+<h3 align="center">📈 PERFORMANCE</h3>
 
 <div align="center">
   <a href="https://github.com/JeanPierrePro">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierrePro&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierrePro&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="Top Languages" />
   </a>
 </div>
 
